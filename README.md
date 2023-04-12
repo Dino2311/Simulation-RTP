@@ -28,7 +28,7 @@
 3. Open Kali and Open 2 Tabs Terminal in Codes' Folder.
 
 <details id=3>
-<summary><h2>Step 3: Open a pull request</h2></summary>
+<summary><h2>Step 3: Open a Simulation </h2></summary>
 
 1. In the First tab, follow the steps belows:
   
